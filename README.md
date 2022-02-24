@@ -13,10 +13,10 @@
 <h1 align=center>Welcom 9b2n's GitHub! 👋</h1>
 <div>
   <a href="https://github.com/9b2n/github-readme-stats">
-    <img align="left" height=160 src="https://github-readme-stats.vercel.app/api?username=9b2n&count_private=true&show_icon=true&theme=default&hide_border=true"/>
+    <img align="left" height=160 src="https://github-readme-stats.vercel.app/api?username=9b2n&count_private=true&show_icon=true&theme=default&hide_border=true&hide=stars" style="max-width: 100%"/>
   </a>
   <a href="https://github.com/9b2n/github-readme-stats">
-    <img align="right" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=9b2n&layout=compact&hide_border=true&langs_count=5"/>
+    <img align="right" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=9b2n&layout=compact&hide_border=true&langs_count=5" style="max-width: 100%"/>
   </a>
 </div>
 
