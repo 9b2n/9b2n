@@ -1,6 +1,14 @@
-### Hi there 👋
+### Welcom 9b2n's GitHub! 👋
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9b2n&show_icons=true&theme=default)
+<a href="https://github.com/9b2n/github-readme-stats">
+  <img align="left" height=160 src="https://github-readme-stats.vercel.app/api?username=9b2n&count_private=true&show_icon=true&theme=default"/>
+</a>
+<a href="https://github.com/9b2n/github-readme-stats">
+  <img align="right" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=9b2n&layout=compact"/>
+</a>
+
+---
 
 <!--
 **9b2n/9b2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
