@@ -8,6 +8,9 @@
   <a href="mailto:rbqls1057@naver.com">
     <img src="http://img.shields.io/badge/-email-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rbqls1057@naver.com"/>
   </a>
+  <a href="https://solved.ac/gru1308">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gru1308"/>
+  </a>
 </div>
 
 <h1 align=center>Welcom 9b2n's GitHub! 👋</h1>
